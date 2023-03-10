@@ -55,3 +55,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Sheng-Hao Ma**
 is currently working as a threat researcher at TXOne Networks, specializing in Windows reverse engineering analysis for over 10 years. In addition, he is currently a member of CHROOT, an information security community in Taiwan. He has served as a speaker and instructor for various international conferences and organizations such as Black Hat USA, DEFCON, CODE BLUE, HITB, VXCON, HITCON, ROOTCON, Ministry of National Defense, and Ministry of Education.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804618110">https://packt.link/free-ebook/9781804618110 </a> </p>
